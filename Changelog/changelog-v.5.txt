@@ -1,0 +1,79 @@
+Project Name: Nowa - HTML Admin & Dashboard Template.
+
+Version : V.5
+
+Updated-date:  18 JULY 2022 
+
+Updates :- 
+		
+		1) Color Variant Tables are Added in table-basic.html.
+ 	
+***********************************************************************************************************************************************************************************************
+
+------------------------------------------------------
+1) Color Variant Tables are Added in table-basic.html.
+------------------------------------------------------
+please follow below steps:-
+
+#########
+step-1:-
+#########
+
+ Update table-basics.html page 
+	
+#########
+step-2:-
+#########
+
+/////////////////
+For scss users:-
+/////////////////
+
+	Replace table.scss file in scss folder (assets/scss/boostrap/table.scss) and run gulp commands.
+
+/////////////////
+For css users:-
+/////////////////
+
+	Replace style.css file (assets/css/style.css)
+
+	
+
+***********************************************************************************************************************************************************************************************
+	
+		 
+Thanking you,
+@spruko.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

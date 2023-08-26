@@ -1,0 +1,72 @@
+Project Name: Nowa– HTML Admin & Dashboard Template.
+
+Version : V.4
+
+Updated-date:  16 May 2022 
+
+ 
+ Updates :- 
+		
+		1) UI issues Fixed.
+ 	
+***********************************************************************************************************************************************************************************************
+---------------------------
+1)  UI issues Fixed.
+---------------------------
+ 
+        Replace complete scss folder. Root Path: (../assets/scss)
+
+	Replace complete css folder. Root Path: (../assets/css)
+
+	Replace themecolor.js file.  Root Path: (../assets/js/themecolor.js)
+
+	Note: Please run gulp commands after replacing the SCSS folder.
+
+
+	Also Replace below html files for better UI:
+       ------------------------------------------------
+
+	index.html, index2.html, dropdown.html, media-object.html, mail-read.html, .shop.html, 
+	product-details.html, todotask.html, wish-list.html, widgets.html
+	
+  
+	
+
+***********************************************************************************************************************************************************************************************
+	
+		 
+Thanking you,
+@spruko.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
